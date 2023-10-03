@@ -1,4 +1,4 @@
-# Wizz Berry - public profile
+# Wizz Berry's public profile
 
 | Repository                              | Description             | Crate                                  | Version |
 |-----------------------------------------|-------------------------|----------------------------------------|---------|
