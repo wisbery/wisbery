@@ -8,4 +8,6 @@
 | [lets-be-rational-sys](https://github.com/wisbery/lets-be-rational-sys) | Future project.                                                                | [lets-be-rational](https://crates.io/crates/lets-be-rational-sys) | v0.0.1  |
 | [yurl](https://github.com/wisbery/yurl)                                 | Future project.                                                                | [yurl](https://crates.io/crates/yurl)                             | v0.0.2  |
 
-### [Notes](https://wisbery.github.io/)
+---
+
+## [Notes](https://wisbery.github.io/)
