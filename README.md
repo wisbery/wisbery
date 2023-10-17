@@ -1,3 +1,5 @@
+# [BERRY NOTES](https://wisbery.github.io/)
+
 | Repository                                                              | Description                                                                    | Crate                                                             | Version |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------|---------|
 | [atto](https://github.com/wisbery/atto)                                 | Future project.                                                                | [atto](https://crates.io/crates/atto)                             | v0.0.4  |
@@ -7,7 +9,3 @@
 | [lets-be-rational](https://github.com/wisbery/lets-be-rational)         | Future project.                                                                | [lets-be-rational](https://crates.io/crates/lets-be-rational)     | v0.0.1  |
 | [lets-be-rational-sys](https://github.com/wisbery/lets-be-rational-sys) | Future project.                                                                | [lets-be-rational](https://crates.io/crates/lets-be-rational-sys) | v0.0.1  |
 | [yurl](https://github.com/wisbery/yurl)                                 | Future project.                                                                | [yurl](https://crates.io/crates/yurl)                             | v0.0.2  |
-
----
-
-## [Notes](https://wisbery.github.io/)
