@@ -9,4 +9,5 @@
 | [jerlson](https://github.com/wisbery/jerlson)                           | JSON parser written in Erlang.                                                 | n/a                                                               | n/a     |
 | [lets-be-rational](https://github.com/wisbery/lets-be-rational)         | Future project.                                                                | [lets-be-rational](https://crates.io/crates/lets-be-rational)     | v0.0.1  |
 | [lets-be-rational-sys](https://github.com/wisbery/lets-be-rational-sys) | Future project.                                                                | [lets-be-rational](https://crates.io/crates/lets-be-rational-sys) | v0.0.1  |
+| [tarolas.rs](https://github.com/wisbery/tarolas.rs)                     | Future project.                                                                | [tarolas](https://crates.io/crates/tarolas)                       | v0.0.1  |
 | [yurl](https://github.com/wisbery/yurl)                                 | Future project.                                                                | [yurl](https://crates.io/crates/yurl)                             | v0.0.2  |
