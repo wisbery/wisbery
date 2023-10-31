@@ -1,5 +1,7 @@
 ## [BERRY NOTES](https://wisbery.github.io/)
 
+---
+
 | Repository                                                              | Description                                                                    | Crate                                                                 | Version |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------|
 | [atto](https://github.com/wisbery/atto)                                 | Future project.                                                                | [atto](https://crates.io/crates/atto)                                 | v0.0.4  |
