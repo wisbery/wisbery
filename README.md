@@ -16,4 +16,4 @@
 | [scidec](https://github.com/wisbery/scidec)                             | Scientific number converter                                                    | [scidec](https://crates.io/crates/scidec)                 | v0.1.7  |
 | [secel](https://github.com/wisbery/secel)                               | Simply Enough Condition Expression Language Parser                             | [secel](https://crates.io/crates/secel)                   | v0.0.7  |
 | [tarolas.rs](https://github.com/wisbery/tarolas.rs)                     | Simple file server                                                             | n/a                                                       | n/a     |
-| [yapp](https://github.com/wisbery/yapp)                                 | Yet another preprocessor for mdBook                                            | [yapp](https://crates.io/crates/mdbook-yapp)              | v0.0.3  |
+| [yapp](https://github.com/wisbery/yapp)                                 | Yet another preprocessor for mdBook                                            | [yapp](https://crates.io/crates/mdbook-yapp)              | v0.1.0  |
